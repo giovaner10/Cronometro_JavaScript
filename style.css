@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+
+
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a2f6fa;
+
+}
+
+
+#cronometro{
+    background-color: #E2A9C3;
+    border: 10px solid #C8B7E7;
+    border-radius: 15px;
+
+    padding: 10vh;
+    font-size: 90px;
+
+    width: 300px;
+}
+
+#resultados{
+    background-color: #E2A9C3;
+    border: 10px solid #C8B7E7;
+    border-radius: 15px;
+
+    padding: 10vh;
+    font-size: 15px;
+
+    margin: 15px;
+
+    width: 300px;
+
+}
+
+#display{
+    padding: 0;
+    color: black;
+    font-family: 'Qahiri', sans-serif;
+}
